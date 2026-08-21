@@ -1,0 +1,33 @@
+{
+  "folders": [
+    {
+      "name": "GF-WEBSITE",
+      "path": "/Users/yagmuradanur/Desktop/2-GOLFERY/GF-WEBSITE"
+    }
+  ],
+  "settings": {
+    "window.title": "🔵 GF-WEBSITE  —  ${activeEditorShort}",
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#0f766e",
+      "titleBar.activeForeground": "#ffffff",
+      "titleBar.inactiveBackground": "#0f766e99",
+      "titleBar.inactiveForeground": "#ffffffcc",
+      "activityBar.background": "#0f766e",
+      "activityBar.foreground": "#ffffff",
+      "statusBar.background": "#0f766e",
+      "statusBar.foreground": "#ffffff",
+      "statusBarItem.remoteBackground": "#0f766e"
+    },
+    "terminal.integrated.cwd": "${workspaceFolder}",
+    "search.exclude": {
+      "**/*_Klasör": true,
+      "**/*.ai": true,
+      "**/*.pdf": true,
+      "**/images/**": true
+    },
+    "files.watcherExclude": {
+      "**/*_Klasör/**": true,
+      "**/images/**": true
+    }
+  }
+}

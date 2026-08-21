@@ -1,0 +1,20 @@
+.DS_Store
+._*
+node_modules/
+*.log
+.env
+.env.*
+*.tmp
+
+# Adobe kaynak dosyalari — ikili, git ile surumlenmez
+*.ai
+*.psd
+*.indd
+
+# 251 MB gorsel klasoru
+GF-Website_Klasör/
+
+# 100,1 MB: 99,9 MB gomulu base64 gorsel. GitHub sert sinir 100 MB,
+# push reddedilir. Cozum: 252 gorseli dosyaya cikarmak.
+hotel-detail.html
+
